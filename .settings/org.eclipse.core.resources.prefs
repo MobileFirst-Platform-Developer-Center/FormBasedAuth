@@ -14,6 +14,7 @@ common.android=3998981046
 eclipse.preferences.version=1
 encoding//apps/HybridFormAuth/common/css/main.css=UTF-8
 encoding//apps/HybridFormAuth/common/index.html=ISO-8859-1
+encoding//apps/NativeWin8FormAuth/wlclient.properties=UTF-8
 fipshttp.android=3517017756
 fipshttp.ipad=2487189175
 fipshttp.iphone=2487189175
